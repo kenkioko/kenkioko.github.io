@@ -431,7 +431,6 @@
 @media (max-width: 767px) {
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(1, 100%);
-    grid-auto-columns: 100%;
   }
 
   .u-section-2 .u-container-layout-1 {
